@@ -1,3 +1,2 @@
 # smart_attendance
-
-project for smart attendance as well as security purpose based on the data stored in yml .
+A Model developed to post the attendance automatially by recognizing the face of a particular student using OPEN CV and Python.
