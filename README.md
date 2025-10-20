@@ -1,4 +1,4 @@
-🧠Smart Attendance using Facial Recognition 
+🧠 Smart Attendance using Facial Recognition 
 
 An intelligent Face Recognition–Based Attendance System built with Python and OpenCV. This system automates attendance marking by detecting and recognizing faces of registered students in real time, improving accuracy and eliminating manual errors.
 
