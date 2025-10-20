@@ -86,6 +86,3 @@ Smart-attendence-master/
 2. Training: Captured faces are stored, then used to train a face recognizer model.  
 3. Recognition: When a known face is detected, attendance is logged automatically in a CSV file.  
 
-🧾 License
-
-This project is licensed under the MIT License.
